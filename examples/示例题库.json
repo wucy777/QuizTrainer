@@ -1,0 +1,81 @@
+{
+ "题库名称": "示例题库（照此格式编写）",
+ "题目列表": [
+  {
+   "题号": "Q1",
+   "分类": "示例 · 单选题",
+   "题目": "光在真空中的传播速度约为多少？",
+   "副题目": "提示：约 3×10^8 m/s",
+   "正确答案选项": "A",
+   "选项": {
+    "A": "3×10^8 m/s",
+    "B": "3×10^6 m/s",
+    "C": "3×10^5 m/s",
+    "D": "3×10^10 m/s"
+   }
+  },
+  {
+   "题号": "Q2",
+   "分类": "示例 · 外语题（副题目放译文）",
+   "题目": "Where is the library?",
+   "副题目": "图书馆在哪里？",
+   "正确答案选项": "C",
+   "选项": {
+    "A": "Next to the bank.",
+    "B": "Behind the hospital.",
+    "C": "Opposite the post office.",
+    "D": "Inside the shopping mall."
+   }
+  },
+  {
+   "题号": "Q3",
+   "分类": "示例 · 多选题",
+   "题目": "以下哪些属于哺乳动物？",
+   "副题目": "",
+   "正确答案选项": ["A", "C"],
+   "选项": {
+    "A": "鲸",
+    "B": "鲨鱼",
+    "C": "蝙蝠",
+    "D": "鳄鱼"
+   }
+  },
+  {
+   "题号": "Q4",
+   "分类": "示例 · 选项较多（十五选一）",
+   "题目": "People tend to want as many choices as possible. They believe this will maximize their ______ of making the best decision.",
+   "副题目": "chance 机会",
+   "正确答案选项": "C",
+   "选项": {
+    "A": "approximately",
+    "B": "case",
+    "C": "chance",
+    "D": "confused",
+    "E": "crucial",
+    "F": "deposited",
+    "G": "enter",
+    "H": "invest",
+    "I": "matter",
+    "J": "presented",
+    "K": "range",
+    "L": "regular",
+    "M": "seize",
+    "N": "selection",
+    "O": "ultimately"
+   }
+  },
+  {
+   "题号": "Q5",
+   "分类": "示例 · 分类筛选用",
+   "题目": "水的化学式是什么？",
+   "副题目": "",
+   "正确答案选项": "B",
+   "选项": {
+    "A": "CO2",
+    "B": "H2O",
+    "C": "O2",
+    "D": "NaCl"
+   }
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+name: quiz_trainer
+description: "QuizTrainer —— 通用选择题刷题工具（Windows / Android 双端）"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  # 配置持久化
+  shared_preferences: ^2.3.2
+  # 导入题库文件（Windows 文件对话框 / Android 文件选择器）
+  file_picker: ^8.1.4
+  # 保存用户导入的题库（应用数据目录）
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# 注意：本程序不内嵌任何题库，题库一律由用户以 JSON 文件导入。
+flutter:
+  uses-material-design: true
